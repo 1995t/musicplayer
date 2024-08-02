@@ -1,0 +1,26 @@
+.playerSection
+{
+    width: 99vw;
+    height: 5vh;
+    background-color: rgb(57, 54, 54);
+    margin: 0rem 0rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 99vw;
+    height: 10vh;
+    .playerImg{
+         width: 80px;
+         height: 80px;
+    }
+    .playerIcon
+    {
+        background-color: red !important;
+        width: 4rem;
+        height: 4rem;
+        margin: 1rem 0rem;
+        border-radius: 50%;
+        cursor: pointer;
+        
+    }
+}

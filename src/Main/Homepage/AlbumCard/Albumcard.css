@@ -1,0 +1,15 @@
+.card{
+    width: 12rem;
+    height: auto;
+    cursor: pointer;
+}
+.cardImage{
+    border-radius: 0.6rem;
+}
+.albumText{
+    color: white;
+    font-size: 1.2rem;
+}
+.albumInfo{
+    margin: 0.5rem 1rem;
+}

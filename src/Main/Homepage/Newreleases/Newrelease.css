@@ -1,0 +1,24 @@
+.newreleases{
+    color: white;
+   margin: 1rem 5rem;
+}
+.cardLayout{
+    display: flex;
+    margin: 1rem 4rem;
+    justify-content: space-around;
+    overflow-x: scroll;
+    cursor: pointer;
+}
+/* .cardLayout::-webkit-scrollbar{
+    display: none;} */
+.cardSection{
+    margin: 1rem;
+}
+.cardImage{
+    width: 10rem;
+    height: auto;
+
+}
+.cardImageName{
+    color: white;
+}

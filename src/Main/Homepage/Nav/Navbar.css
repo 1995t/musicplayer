@@ -1,0 +1,93 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 4rem;
+}
+.logoSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wynkLogo{
+    width: 3rem;
+    height: auto;
+}
+.logoText{
+    margin: 0rem 0.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    color: white;
+}
+.searchSection{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.searchItem{
+    border: 0.5px solid grey;
+    border-radius: 1rem;
+    width: 20rem;
+    padding: 0.6rem 4rem;
+    font-size: 1rem;
+    background: rgb(35, 35, 35);
+    color: white;
+    
+}
+.searchIcon{
+    position: absolute;
+    left: 1rem;
+    color: gray;
+    cursor: pointer;
+}
+.subsIcon{
+    color: white;
+}
+.nonlogoSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.subscriptionSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0rem 1rem;
+}
+.subsText{
+    color: white;
+    font-size: 1rem;
+    margin: 0rem 1rem;
+    cursor: pointer;
+}
+.nologoDivide{
+    border-left: 0.5px solid grey;
+    width: auto;
+    height: 2.5rem;
+}
+.loginSection{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0rem 1rem;
+}
+.loginLogo{
+    color: white;
+}
+.loginText{
+    color: white;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0rem 1rem;
+    cursor: pointer;
+}
+.dropdownMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.menu{
+    color: white;
+}

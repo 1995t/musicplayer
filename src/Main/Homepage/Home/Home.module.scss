@@ -1,0 +1,14 @@
+.searchSection{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    .song{
+        margin: 1rem 2rem;
+        .songAlbum{
+            color: white;
+            margin: 1rem 0.5rem;
+        }
+    }
+    
+}

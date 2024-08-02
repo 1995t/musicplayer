@@ -1,0 +1,22 @@
+.indiemusic{
+    margin: 1rem 4rem;
+color: white;
+}
+.cardLayout{
+    display: flex;
+    margin: 1rem 4rem;
+    justify-content: space-around;
+    overflow-x: scroll;
+}
+
+.indieSection{
+   margin: 1rem;
+}
+.indieImage{
+   width: 10rem;
+   height: auto;
+   border-radius: 0.5rem;
+}
+.indieName{
+    color: white;
+}

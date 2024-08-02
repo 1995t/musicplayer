@@ -1,0 +1,17 @@
+.topcharts{
+    margin: 1rem 4rem;
+    color: white;
+}
+.cardLayout{
+    display: flex;
+    margin: 1rem 4rem;
+    justify-content: space-around;
+}
+.chartSection{
+    margin: 1rem;
+}
+.chartImage{
+    width: 10rem;
+    height: auto;
+    border-radius: 0.5rem;
+}
